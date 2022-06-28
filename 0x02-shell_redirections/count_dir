@@ -1,0 +1,2 @@
+#!/bin/bash
+find. -mdepth | -maxdepth |-type d | wc -l

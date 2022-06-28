@@ -1,0 +1,2 @@
+#!/bin/bash
+files *a | ssh_config
